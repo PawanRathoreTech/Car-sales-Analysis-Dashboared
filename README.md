@@ -9,7 +9,8 @@ It provides deep insights into brand performance, revenue, units sold, market sh
 
 ## 📸 Dashboard Preview
 
-![Dashboard]
+![Dashboard](Dashboared 2.png)
+
 
 ---
 
