@@ -9,7 +9,7 @@ It provides deep insights into brand performance, revenue, units sold, market sh
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Dashboared2.png)
+![Dashboard](https://github.com/PawanRathoreTech/Car-sales-Analysis-Dashboared/blob/main/Dashboared%202.png)
 
 
 ---
